@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479963017873",
+    "project_id": "pet-repet-4ca38",
+    "storage_bucket": "pet-repet-4ca38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479963017873:android:f8aaf0b5f99d39042a0530",
+        "android_client_info": {
+          "package_name": "com.example.petrepet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479963017873-dsb20736sdcvgro2efraamjj1jsoe4jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIbbvTj6sTM701Ttsn4Hi-ORiFXxEJwfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479963017873-dsb20736sdcvgro2efraamjj1jsoe4jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
